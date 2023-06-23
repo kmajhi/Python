@@ -11,7 +11,7 @@ def calculate_electricity_bill(units):
     surcharge = total_bill * 0.20  # 20% surcharge
     total_bill += surcharge
     
-    return total_bill
+    return total_bill 
 
 
 # Input electricity units from the user
